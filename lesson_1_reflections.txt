@@ -1,0 +1,6 @@
+It was much easier to find a bug when the Diff command pulled a few lines than to search through all the code.
+Using version control makes one more efficient by allowing one to quickly bring back old sections of code that might work better.
+Office suite files are not interconnected in the same way that code files are.
+git log displays different commits, git diff shows the difference between two commits
+If changes are easy to roll back, large changes can be fixed easily if necessary
+I would like to use Git to manage web site versions
