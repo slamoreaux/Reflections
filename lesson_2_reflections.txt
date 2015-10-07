@@ -1,0 +1,2 @@
+This creates a git repository but does not make a commit. You must create the repository before you can make a commit.
+The staging area connects the working directory to git. It allows you to make a choice before making a commit.
