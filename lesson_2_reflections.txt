@@ -1,2 +1,6 @@
 This creates a git repository but does not make a commit. You must create the repository before you can make a commit.
 The staging area connects the working directory to git. It allows you to make a choice before making a commit.
+Branches are helpful when you want to make two versions that can each be edited separately than the other.
+Diagrams help show each commit and its parents to make it easier to find a particular commit.
+merging two branches can combine major changes with new bug fixes. The branches are no longer separate.
+Auto merging can speed up the process, but sometimes requires you to manually merge conflicts
