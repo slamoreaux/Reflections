@@ -1,1 +1,2 @@
 Using a remote repository is useful when using multiple computers or when collaborating with other people
+Automatically might make code public that isnt ready yet
